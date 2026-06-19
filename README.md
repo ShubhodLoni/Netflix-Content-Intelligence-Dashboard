@@ -140,7 +140,6 @@ Aspiring Data Analyst | Data Scientist | Power BI Developer
 - GitHub: https://github.com/
 
 ---
-### To install
--click on view raw and it will get installed
-
+##**Dashboard Link**
+https://app.powerbi.com/groups/me/reports/e09c1e10-40cf-4138-a2f3-de6dbac23a74/277056963c5b13409449?experience=power-bi
 ⭐ If you found this project interesting, feel free to star the repository and connect with me on LinkedIn.
