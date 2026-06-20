@@ -8,12 +8,6 @@ The dashboard provides a comprehensive overview of Netflix content based on cont
 
 ---
 
-## 📊 Dashboard Preview
-
-![Netflix Dashboard](dashboard.png)
-
----
-
 ## 🎯 Objectives
 
 - Analyze the distribution of Movies and TV Shows.
